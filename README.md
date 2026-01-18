@@ -16,8 +16,6 @@ I enjoy learning new tools, building projects, and improving everyday.
 ## 💻 Tech Stack
 
 ### **Languages**
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
 ![PHP](https://img.shields.io/badge/PHP-7377AD?style=for-the-badge)
@@ -25,7 +23,6 @@ I enjoy learning new tools, building projects, and improving everyday.
 ### **Frontend**
 ![HTML](https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge)
 
 ### **Backend**
@@ -50,7 +47,6 @@ I enjoy learning new tools, building projects, and improving everyday.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](#)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge)](#)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge)](#)
 [![Email](https://img.shields.io/badge/Email-D44638?style=for-the-badge)](mailto:yourmail@gmail.com)
 
 ---
@@ -61,7 +57,7 @@ I enjoy learning new tools, building projects, and improving everyday.
 |--------------|-----------------------------|
 | System       | Windows                     |
 | Programming  | Java, Python                |
-| Web Dev      | HTML, CSS, Bootstrap        |
+| Web Dev      | HTML, CSS,       |
 | Frontend     | React                       |
 | Backend      | J2EE, PHP                   |
 | Data         | NumPy, Pandas               |
