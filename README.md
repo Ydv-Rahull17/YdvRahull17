@@ -6,7 +6,7 @@
 
 ## 🧑‍💻 About Me
 
-I’m **RAHUL**, a passionate **Computer Science student & developer**  
+I’M **RAHUL**, a passionate **Computer Science student & developer**  
 interested in **software development, web technologies, and backend systems**.
 
 I enjoy learning new tools, building projects, and improving everyday.
